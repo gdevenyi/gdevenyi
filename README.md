@@ -111,11 +111,11 @@ Most of my open-source work ships through the two labs I build infrastructure fo
 ## ⚙️ GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gdevenyi&show_icons=true&theme=github_dark&count_private=true" height="180">
+  <img src="https://github-stats-extended.vercel.app/api?username=gdevenyi&show_icons=true&theme=github_dark&count_private=true" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gdevenyi&theme=github-dark-blue&hide_border=true" height="180">
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdevenyi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=gdevenyi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gdevenyi&theme=github-dark" width="95%">
