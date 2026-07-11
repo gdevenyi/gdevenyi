@@ -93,6 +93,8 @@ Most of my open-source work ships through the two labs I build infrastructure fo
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Non linear registration doesn’t matter &lpar;much&rpar; or how I learned to stop worrying and love the affine](https://gabriel.devenyi.ca/posts/2019/06/Non-linear-registration-doesnt-matter-much-or-how-I-learned-to-stop-worrying-and-love-the-affine)
+- [Kaizen](https://gabriel.devenyi.ca/posts/201409/kaizen)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated daily from [gabriel.devenyi.ca](https://gabriel.devenyi.ca) via GitHub Actions.
