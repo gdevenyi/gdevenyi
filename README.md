@@ -85,10 +85,17 @@ Most of my open-source work ships through the two labs I build infrastructure fo
 
 ## 📚 Scholarly Work
 
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/gdevenyi/gdevenyi/citation-stats/citations.json&style=for-the-badge)](https://scholar.google.com/citations?user=-H-H1AoAAAAJ&hl=en)
+[![h-index](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/gdevenyi/gdevenyi/citation-stats/hindex.json&style=for-the-badge)](https://scholar.google.com/citations?user=-H-H1AoAAAAJ&hl=en)
+[![Publications](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/gdevenyi/gdevenyi/citation-stats/publications.json&style=for-the-badge)](https://www.semanticscholar.org/author/7852314)
+
 > 🔍 [Google Scholar](https://scholar.google.com/citations?user=-H-H1AoAAAAJ&hl=en) ·
 > 🆔 [ORCID 0000-0002-7766-1187](https://orcid.org/0000-0002-7766-1187) ·
+> 🎓 [Semantic Scholar](https://www.semanticscholar.org/author/7852314) ·
 > 🌐 [gabriel.devenyi.ca](https://gabriel.devenyi.ca) ·
 > 📄 [CV](https://github.com/gdevenyi/curriculumvitae)
+>
+> <sub>Citation metrics auto-updated weekly via the Semantic Scholar API.</sub>
 
 ## ✍️ Latest Blog Posts
 
